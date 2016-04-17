@@ -62,3 +62,6 @@ let g:ctrlp_extensions = ['buffertag', 'mixed']
 
 "Gundo
 nnoremap <F5> :GundoToggle<CR>
+
+"orgmode
+let g:org_aggressive_conceal = 1
